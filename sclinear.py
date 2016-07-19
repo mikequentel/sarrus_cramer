@@ -129,7 +129,6 @@ def main():
   print "y = " + str(y)
   print "z = " + str(z)
 
-
-  # Specifies name of main function.
-  if __name__ == "__main__":
-    sys.exit(main())
+# Specifies name of main function.
+if __name__ == "__main__":
+  sys.exit(main())
